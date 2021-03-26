@@ -10,6 +10,7 @@
         <module name="map-svc" />
         <module name="notification-svc" />
         <module name="payment-svc" />
+        <module name="common" />
         <module name="rider-svc" />
         <module name="access-svc" />
         <module name="tracking-svc" />
@@ -17,6 +18,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="backend" target="1.7" />
+      <module name="rider-svc" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

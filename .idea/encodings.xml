@@ -3,11 +3,13 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/code/backend/access-svc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/backend/driver-svc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/backend/driver-svc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/backend/map-svc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/backend/notification-svc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/backend/payment-svc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/backend/rider-svc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/backend/tracking-svc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/main/java" charset="UTF-8" />
   </component>
 </project>

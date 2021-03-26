@@ -5,25 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>edu.githubproject</groupId>
-  <artifactId>githubproject</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>rider-app</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>code/backend</module>
-    <module>code/backend/access-svc</module>
-    <module>code/backend/map-svc</module>
-    <module>code/backend/driver-svc</module>
-    <module>code/backend/notification-svc</module>
-    <module>code/backend/passenger-svc</module>
-    <module>code/backend/payment-svc</module>
-    <module>code/backend/tracking-svc</module>
-    <module>code/common</module>
-    <module>code/frontend/audit-app</module>
-    <module>code/frontend/driver-app</module>
-    <module>code/frontend/rider-app</module>
-  </modules>
 
-  <name>githubproject</name>
+  <name>rider-app</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
