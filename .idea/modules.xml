@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/code/backend/rider-svc/rider-svc.iml" filepath="$PROJECT_DIR$/code/backend/rider-svc/rider-svc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/frontend/web-app/web-app.iml" filepath="$PROJECT_DIR$/code/frontend/web-app/web-app.iml" />
     </modules>
   </component>
 </project>
