@@ -1,4 +1,4 @@
-package edu.githubproject.frontend.utilities;
+package edu.githubproject.app.web.tools.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;

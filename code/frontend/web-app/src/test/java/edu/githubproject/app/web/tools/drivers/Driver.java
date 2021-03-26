@@ -1,9 +1,7 @@
-package edu.githubproject.frontend.drivers;
+package edu.githubproject.app.web.tools.drivers;
 
-import edu.githubproject.frontend.utilities.PropertiesReader;
+import edu.githubproject.app.web.tools.utilities.PropertiesReader;
 import org.openqa.selenium.WebDriver;
-
-import java.util.concurrent.TimeUnit;
 
 public class Driver {
     private static WebDriver driver;

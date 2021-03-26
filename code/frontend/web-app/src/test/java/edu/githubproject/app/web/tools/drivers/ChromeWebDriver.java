@@ -1,4 +1,4 @@
-package edu.githubproject.frontend.drivers;
+package edu.githubproject.app.web.tools.drivers;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
