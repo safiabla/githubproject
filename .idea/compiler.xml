@@ -6,8 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="githubproject" />
+        <module name="driver-svc" />
+        <module name="map-svc" />
+        <module name="notification-svc" />
+        <module name="payment-svc" />
+        <module name="rider-svc" />
+        <module name="access-svc" />
+        <module name="tracking-svc" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="backend" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

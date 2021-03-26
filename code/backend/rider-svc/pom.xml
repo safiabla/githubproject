@@ -5,21 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>edu.githubproject</groupId>
-  <artifactId>githubproject</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>passenger-svc</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <modules>
-    <module>code/backend</module>
-    <module>code/backend/access-svc</module>
-    <module>code/backend/map-svc</module>
-    <module>code/backend/driver-svc</module>
-    <module>code/backend/notification-svc</module>
-    <module>code/backend/passenger-svc</module>
-    <module>code/backend/payment-svc</module>
-    <module>code/backend/tracking-svc</module>
-  </modules>
 
-  <name>githubproject</name>
+  <name>passenger-svc</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
