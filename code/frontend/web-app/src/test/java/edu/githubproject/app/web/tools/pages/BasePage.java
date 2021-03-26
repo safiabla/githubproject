@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class BasePage {
 
-    @FindBy() // TODO Assel K
+    @FindBy(id = "logo") // TODO Assel K
     public WebElement logo;
 
     // Login
